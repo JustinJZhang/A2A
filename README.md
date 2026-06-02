@@ -1,4 +1,4 @@
-# A2A
+# PSCL
 
 This is the repository for the paper "Pyramid Self-contrastive Learning for One-shot Test-time Ultrasound Image Denoising". The code and dataset will be publicly available once the paper is accepted for publication.
 
