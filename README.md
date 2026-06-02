@@ -1,6 +1,6 @@
 # A2A
 
-This is the repository for the paper "Pyramid Self-contrastive Learning Framework for Test-time Ultrasound Image Denoising". The code and dataset will be publicly available once the paper is accepted for publication.
+This is the repository for the paper "Pyramid Self-contrastive Learning for One-shot Test-time Ultrasound Image Denoising". The code and dataset will be publicly available once the paper is accepted for publication.
 
 - [ ] **Model**
 - [ ] **Loss Functions**
